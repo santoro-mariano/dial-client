@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIALClient", "DIALPhone\DIALClient.csproj", "{7D0AD232-34AE-47CE-975A-F0DFDEEE3688}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testing", "Testing", "{FDA13560-C4EA-4899-A222-AE1976BE86A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingApp", "TestingApp\TestingApp.csproj", "{C98AA9B7-ADDB-4107-A023-B2B1477B4834}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D0AD232-34AE-47CE-975A-F0DFDEEE3688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D0AD232-34AE-47CE-975A-F0DFDEEE3688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D0AD232-34AE-47CE-975A-F0DFDEEE3688}.Debug|ARM.ActiveCfg = Debug|ARM
+		{7D0AD232-34AE-47CE-975A-F0DFDEEE3688}.Debug|ARM.Build.0 = Debug|ARM
+		{7D0AD232-34AE-47CE-975A-F0DFDEEE3688}.Debug|x86.ActiveCfg = Debug|x86
+		{7D0AD232-34AE-47CE-975A-F0DFDEEE3688}.Debug|x86.Build.0 = Debug|x86
+		{7D0AD232-34AE-47CE-975A-F0DFDEEE3688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D0AD232-34AE-47CE-975A-F0DFDEEE3688}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D0AD232-34AE-47CE-975A-F0DFDEEE3688}.Release|ARM.ActiveCfg = Release|ARM
+		{7D0AD232-34AE-47CE-975A-F0DFDEEE3688}.Release|ARM.Build.0 = Release|ARM
+		{7D0AD232-34AE-47CE-975A-F0DFDEEE3688}.Release|x86.ActiveCfg = Release|x86
+		{7D0AD232-34AE-47CE-975A-F0DFDEEE3688}.Release|x86.Build.0 = Release|x86
+		{C98AA9B7-ADDB-4107-A023-B2B1477B4834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C98AA9B7-ADDB-4107-A023-B2B1477B4834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C98AA9B7-ADDB-4107-A023-B2B1477B4834}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C98AA9B7-ADDB-4107-A023-B2B1477B4834}.Debug|ARM.ActiveCfg = Debug|ARM
+		{C98AA9B7-ADDB-4107-A023-B2B1477B4834}.Debug|ARM.Build.0 = Debug|ARM
+		{C98AA9B7-ADDB-4107-A023-B2B1477B4834}.Debug|ARM.Deploy.0 = Debug|ARM
+		{C98AA9B7-ADDB-4107-A023-B2B1477B4834}.Debug|x86.ActiveCfg = Debug|x86
+		{C98AA9B7-ADDB-4107-A023-B2B1477B4834}.Debug|x86.Build.0 = Debug|x86
+		{C98AA9B7-ADDB-4107-A023-B2B1477B4834}.Debug|x86.Deploy.0 = Debug|x86
+		{C98AA9B7-ADDB-4107-A023-B2B1477B4834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C98AA9B7-ADDB-4107-A023-B2B1477B4834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C98AA9B7-ADDB-4107-A023-B2B1477B4834}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C98AA9B7-ADDB-4107-A023-B2B1477B4834}.Release|ARM.ActiveCfg = Release|ARM
+		{C98AA9B7-ADDB-4107-A023-B2B1477B4834}.Release|ARM.Build.0 = Release|ARM
+		{C98AA9B7-ADDB-4107-A023-B2B1477B4834}.Release|ARM.Deploy.0 = Release|ARM
+		{C98AA9B7-ADDB-4107-A023-B2B1477B4834}.Release|x86.ActiveCfg = Release|x86
+		{C98AA9B7-ADDB-4107-A023-B2B1477B4834}.Release|x86.Build.0 = Release|x86
+		{C98AA9B7-ADDB-4107-A023-B2B1477B4834}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C98AA9B7-ADDB-4107-A023-B2B1477B4834} = {FDA13560-C4EA-4899-A222-AE1976BE86A2}
+	EndGlobalSection
+EndGlobal
